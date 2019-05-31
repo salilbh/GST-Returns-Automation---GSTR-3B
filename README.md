@@ -471,9 +471,3 @@ while UIDs <= Users:
     continue
 
 
-os.system("taskkill /f /im chromedriver.exe.exe")
-os.system("taskkill /f /im chrome.exe")
-os.exit()
-exit()
-
-
